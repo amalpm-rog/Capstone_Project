@@ -44,5 +44,5 @@ The presented model represents the best model I have constructed so far. Origina
 
 [Project Notebook: Spark - Full Dataset Analytics](https://nbviewer.jupyter.org/github/amalpm-rog/Capstone_Project/blob/master/Spark%20-%20Subset%20Analytics.ipynb)
 
-[Blog Post: Understanding Customer Churning with Big Data Analytics](https://medium.com/@bowenchen/understanding-customer-churning-with-big-data-analytics-70ce4eb17669)
+[Blog Post: Understanding Customer Churning with Big Data Analytics](https://medium.com/@amalpm0011/to-know-customer-churning-using-big-data-analytics-e95c09b95f73?sk=820be8e2ace48236a5576c87976c318a)
 
