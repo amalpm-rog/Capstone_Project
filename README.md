@@ -1,5 +1,7 @@
 # Capstone Project - Sparkify Music Service Analytics
 
+Git-hub link:click [here](https://github.com/amalpm-rog/Capstone_Project.git)
+
 ### Motivation
 
 As many music streaming services that opreates on dataset with seconds of timeframe, the size of the data grows expotentially large in a short while. The size of the data would quickly outgrown the memory limit of most personal computers. To ensure the analytical activities are still performed as normal, we need to utilize the power of spark to perform a distributed data analytics task to obtain insights for from the data. In particular, we would like to understand the factors that contributes to users churning behaviors.
